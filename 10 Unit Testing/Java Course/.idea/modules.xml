@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!.iml" group="Introduction-Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!_main.iml" group="Introduction-Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, Java!/Introduction-Hello,_Java!_test.iml" group="Introduction-Hello,_Java!" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2.iml" group="Introduction-task2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2_main.iml" group="Introduction-task2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Introduction/task2/Introduction-task2_test.iml" group="Introduction-task2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Course.iml" filepath="$PROJECT_DIR$/.idea/Java_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

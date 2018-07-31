@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Hello,_Java!-Hello,_Java!_main" target="1.8" />
+      <module name="Hello,_Java!-Hello,_Java!_test" target="1.8" />
+      <module name="Introduction-Hello,_Java!_main" target="1.8" />
+      <module name="Introduction-Hello,_Java!_test" target="1.8" />
+      <module name="Introduction-task2_main" target="1.8" />
+      <module name="Introduction-task2_test" target="1.8" />
+      <module name="lesson1-DemoTask_main" target="1.8" />
+      <module name="lesson1-DemoTask_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
